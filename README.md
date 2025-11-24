@@ -45,3 +45,6 @@ cargo run
 
 The editor starts with a 32x32 pixel canvas. Use the toolbar to select tools and adjust settings. Open images via File menu or create new files. Save your work in PNG, GIF, or BMP format.
 
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
